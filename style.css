@@ -1,0 +1,45 @@
+.myclass{
+    height: 500px;
+    width: 900px;
+}
+.red{
+    background-color: brown;
+}
+.pink{
+    background-color: blue;
+}
+.blue{
+    background-color: blueviolet;
+}
+.green{
+    background-color: black;
+}
+.black{
+    background-color: greenyellow;
+}
+#id1{
+    background-color: bisque;
+}
+#id2{
+    background-color: rgb(210, 134, 41);
+}
+#id3{
+    background-color: aquamarine;
+}
+#id4{
+    background-color: antiquewhite;
+}
+#id5{
+    background-color: blueviolet;
+}
+table *{
+background-color: aqua;
+}
+.id12,.id13,.id14,.id15,.id16{
+    background-color: rgb(84, 101, 96);
+}
+#ad,#bd,#cd,#dd,#ed{
+    background-color: brown
+    ;
+
+}
